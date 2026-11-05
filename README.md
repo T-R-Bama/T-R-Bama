@@ -20,7 +20,7 @@ d'adéquation. La boucle d'agent (appel d'outils) est **codée à la main, sans 
   (« Paris » n'était pas reconnu comme « France ») ; corrigé, 100 % des offres visibles.
 - **Garde-fou contre les hallucinations** : tout lien que le modèle invente est retiré de la réponse.
 - **Mémoire de conversation** (« compare la 2e offre à mon CV »), démo protégée pour un quota gratuit,
-  **48 tests automatiques** lancés par GitHub Actions.
+  **49 tests automatiques** lancés par GitHub Actions.
 
 `Python` · `Groq` · `Ollama` · `function calling` · `Streamlit` · `pytest` · `GitHub Actions`
 
